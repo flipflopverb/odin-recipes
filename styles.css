@@ -1,0 +1,56 @@
+/* styles.css */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+head {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+ol {
+    color: rgb(74, 187, 125);
+}
+
+ul {
+    color:rgb(163, 61, 146);
+    text-shadow:16px 16px 24px rgb(163, 61, 146);
+}
+
+a { 
+    color: #006678;
+}
+
+img {
+    height: 200px;
+    width: 1000px;
+}
+
+h1 {
+        font-size: 48px;
+}
+
+.head-title {
+    text-align: left;
+    font-size: 48px;
+    
+}
+
+.main-title { 
+    text-align: center;
+    font-size: 48px;
+}
+
+.section-title {
+    text-align: left;
+    font-size: 36px;
+}
+.b {
+    color: greenyellow;
+}
+.a {
+    color:blueviolet;
+}
